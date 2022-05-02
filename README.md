@@ -1,2 +1,2 @@
 # -
-用于个人读博文献、笔记、学习材料等记录
+For personal study or paper read or material collections
