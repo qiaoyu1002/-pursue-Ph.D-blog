@@ -159,7 +159,6 @@ if [ "$strcmd" == "git push" ];then
     fi
 fi
 
-cd $strbranch
 
 
 
