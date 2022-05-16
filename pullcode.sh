@@ -17,6 +17,7 @@ strr[1]="https://github.com/qiaoyu1002/-pursue-Ph.D-blog.git"
 strb[0]="DRL_study"
 strb[1]="Fedme"
 strb[2]="main"
+strb[3]="Tools"
 
 #git cmd
 strc[0]="git clone"
